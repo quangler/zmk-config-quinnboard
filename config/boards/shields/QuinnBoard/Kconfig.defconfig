@@ -1,0 +1,6 @@
+if SHIELD_QUINNBOARD
+
+config ZMK_KEYBOARD_NAME
+    default "QuinnBoard"
+
+endif
